@@ -105,7 +105,7 @@ optax==0.1.7
 orbax-checkpoint==0.4.8
 packaging==23.2
 paddleocr==2.6.0.1
-paddlepaddle==2.6.0
+paddlepaddle
 pandas==2.1.4
 parso==0.8.3
 pdf2docx==0.5.7
